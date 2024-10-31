@@ -1,6 +1,6 @@
 # General Settings
 title = "Glacier - Clean & Minimal Portfolio Hugo Theme"
-baseURL = "" #Frostfireimages.ca
+baseURL = "https://www.frostfireimages.ca.netlify.app/"
 languageCode = "en-us"
 theme = "glacier"
 resourceDir = "resources"
