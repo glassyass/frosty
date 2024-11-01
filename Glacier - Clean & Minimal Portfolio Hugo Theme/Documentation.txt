@@ -1,0 +1,7 @@
+--------------------------------------
+
+Online Glacier Hugo Theme Documentation:
+
+https://mountain-themes.gitbook.io/glacier-hugo-documentation/
+
+--------------------------------------
